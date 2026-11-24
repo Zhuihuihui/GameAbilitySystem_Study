@@ -13,5 +13,6 @@ UCLASS()
 class GAS_STUDY_PROJECT_API AAuraCharacter : public AAuraCharacterBase
 {
 	GENERATED_BODY()
-	
+public:
+	AAuraCharacter();
 };
